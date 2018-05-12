@@ -33,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5275
     wikipedia: http://en.wikipedia.org/wiki/Anne_Manning
 description: Fictitious diary of Margaret More.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45187#The-Household-of-Sir-Thomas-More
 gutenberg_issued: '2014-03-22'
 gutenberg_type: Text
 identifiers:
