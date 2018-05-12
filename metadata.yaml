@@ -1,0 +1,51 @@
+_repo: The-Household-of-Sir-Thomas-More_45187
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Hutton, William Holden
+    alias: Hutton, W. H. (William Holden)
+    birthdate: 1860
+    deathdate: 1930
+    gutenberg_agent_id: '25290'
+    url: http://www.gutenberg.org/2009/agents/25290
+  illustrators:
+  - agent_name: Jellicoe, John
+    gutenberg_agent_id: '8935'
+    url: http://www.gutenberg.org/2009/agents/8935
+  - agent_name: Railton, Herbert
+    birthdate: 1857
+    deathdate: 1910
+    gutenberg_agent_id: '42184'
+    url: http://www.gutenberg.org/2009/agents/42184
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Railton
+covers:
+- cover_type: archival
+  image_path: 45187-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Manning, Anne
+    aliases:
+    - Manning, A. (Anne)
+    - More, Margareta
+    birthdate: 1807
+    deathdate: 1879
+    gutenberg_agent_id: '5275'
+    url: http://www.gutenberg.org/2009/agents/5275
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Manning
+description: Fictitious diary of Margaret More.
+gutenberg_issued: '2014-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45187'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'More, Thomas, Saint, 1478-1535 -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Christian saints -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Christian fiction'
+title: The Household of Sir Thomas More
+url: http://www.gutenberg.org/ebooks/45187
